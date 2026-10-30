@@ -2,6 +2,8 @@
 
 ![Quant Finance Portfolio](header.png)
 
+## Disclaimer: This repo is still in progress. 
+
 ## Overview
 
 This repository is my working space for building a profound understanding of Quantitative Finance — from the mathematical foundations to fully implemented projects. It bridges my background in theoretical physics with the modelling tools used in modern quantitative research and derivatives pricing.
